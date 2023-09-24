@@ -1,0 +1,17 @@
+{
+  "name": "my-keystone-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "create": "npx @keystone-next/keystone create",
+    "dev": "npx @keystone-next/keystone dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@keystone-next/keystone": "^14.0.1"
+  },
+  "description": ""
+}
